@@ -116,7 +116,7 @@ else:
                 r_nam = 0
 
             
-            while general_candies > 28:
+            while general_candies > 56:
                 if r_nam == 1:
                     number_candies = int(input(f"Сколько конфет берет {player_1}? "))
                     if number_candies > 28:
